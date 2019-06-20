@@ -131,5 +131,5 @@ function operando(parametros,sig){
       parametros.res=""
       break;
   }
-
+  
 calculadora.init()
